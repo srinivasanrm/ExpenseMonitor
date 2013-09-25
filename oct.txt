@@ -1,0 +1,59 @@
+1/10/2009	Anthony  Hospital ortho dept expenses	400	hospital
+1/10/2009	Car training class	100	car
+2/10/2009	Iddli vadai for 2 days	80	food
+2/10/2009	Oranges 	100	food
+2/10/2009	Paper and journals	250	paper
+2/10/2009	Petol for two wheeler	100	petrol for two wheeler
+2/10/2009	Petrol for car	500	petrol for car
+2/10/2009	sun direct	100	tv
+3/10/2009	Amma for house expenses	4000	amma
+4/10/2009	Petrol for car	1000	petrol for car
+4/10/2009	Driver batta for Saravana Stores	200	car
+4/10/2009	Milk Card	1000	food
+5/10/2009	Car training class	100	car
+5/10/2009	Petrol for two wheeler	100	petrol for two wheeler
+6/10/2009	Car training class	100	car
+6/10/2009	Iddli vadai for 6 days	250	food
+7/10/2009	Sugar strips	1200	medicine
+7/10/2009	Tiffin	70	food
+8/10/2009	Car training class	100	car
+9/10/2009	Car training class	100	car
+10/10/2009	Petrol for car	1000	petrol for car
+10/10/2009	Medicines	200	medicine
+10/10/2009	Iddli vadai for3 days	90	food
+10/10/2009	Petol for two wheeler	100	petrol for two wheeler
+10/10/2009	Amma for house expenses	4000	amma
+11/10/2009	Cable TV	100	tv
+13/10/2009	Diwali purchase, saree for vasanthi, dress for		clothes
+13/10/2009	Nirmala, banians, underwears etc	2000	clothes
+13/10/2009	Crackers	1500	Crackers
+13/10/2009	Stitching charges for Appa dress	400	clothes
+14/10/2009	Petrol for car	1000	Petrol for car
+14/10/2009	Medicines	700	medicine
+15/10/2009	Milk Card delivery charges	100	food
+15/10/2009	Petrol for two wheeler	100	petrol for two wheeler
+15/10/2009	Ration	150	food
+15/10/2009	Sweet caram for Deepavali	300	food
+15/10/2009	Postman enam	100	gift
+15/10/2009	Amma for house expenses	500	amma
+17/10/2009	Tooth paste, lion date syrup and vadai	150	food
+18/10/2009	Sweet  to Driver	120	gift
+18/10/2009	Amma for house expenses	3000	amma
+18/10/2009	Iddli vadai for 3 days	100	food
+20/10/2009	Petrol for car	1000	petrol for car
+20/10/2009	Complan	180	food
+22/10/2009	Medicines	600	medicine
+22/10/2009	Oats, washing powder, honey etc	400	food
+22/10/2009	Sprayer tube for toilet	100	utilities
+22/10/2009	Amma 	2000	amma
+23/10/2009	Nickie's injury expenses	500	medicine
+23/10/2009	Apple, oranges and iddli vadai	100	food
+25/10/2009	Petrol for car	1000	petrol for car
+25/10/2009	Temple subscription	100	gift
+26/10/2009	Jam, sauce, mosquito liquid etc	400	food
+26/10/2009	sun TV direct	100	tv
+31/10/2009	Vadai for 6 days	180	food
+31/10/2009	Nickie's injury expenses suture removal & medicines	300	medicine
+31/10/2009	Petrol for two wheeler	200	petrol for two wheeler
+31/10/2009	Amma for house expenses	4000	amma
+31/10/2009	Lic premium	1600	lic
